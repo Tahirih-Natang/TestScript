@@ -13,7 +13,7 @@ public class TestScript {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO 
 
-				// Create firefox driver to drive the browser
+				// Create firefox driver to open the firefox browser
 				
 				WebDriver driver = new FirefoxDriver();
 				
