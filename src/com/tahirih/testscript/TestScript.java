@@ -11,7 +11,6 @@ public class TestScript {
 	 * @throws InterruptedException 
 	 */
 	public static void main(String[] args) throws InterruptedException {
-		// TODO 
 
 				// Create firefox driver to open the firefox browser
 				
