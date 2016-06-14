@@ -1,5 +1,5 @@
 # TestScript
-###In this test script I am automating the test for the following test cases;
+###In this test script I am automating the test for the following test case scenario;
 
 
 ##### Create firefox driver to drive the browser
