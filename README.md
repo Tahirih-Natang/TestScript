@@ -1,4 +1,4 @@
-# TestScript
+# Test Script
 ###In this test script I am automating the test for the following test case scenario;
 
 
